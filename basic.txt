@@ -1,0 +1,1 @@
+I am just testing the schedule app form the iPad to see if I can use this as a way to code and test on the server using git as an intermediary 
